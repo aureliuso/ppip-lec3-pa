@@ -1,2 +1,3 @@
 The quick brown fox jumps over the lazy dog. Data analysis is fun.
 Leader adds some more text to analyse.
+Member adds even more vowels: aeiou aeiou aeiou.
